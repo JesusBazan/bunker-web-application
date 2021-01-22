@@ -1,0 +1,321 @@
+C:\Users\artur\Desktop\pagina\WebAppProducto3\WebAppProducto3\bin\WebAppProducto3.dll.config
+C:\Users\artur\Desktop\pagina\WebAppProducto3\WebAppProducto3\bin\WebAppProducto3.dll
+C:\Users\artur\Desktop\pagina\WebAppProducto3\WebAppProducto3\bin\WebAppProducto3.pdb
+C:\Users\artur\Desktop\pagina\WebAppProducto3\WebAppProducto3\bin\roslyn\csc.exe
+C:\Users\artur\Desktop\pagina\WebAppProducto3\WebAppProducto3\bin\roslyn\csc.exe.config
+C:\Users\artur\Desktop\pagina\WebAppProducto3\WebAppProducto3\bin\roslyn\csc.rsp
+C:\Users\artur\Desktop\pagina\WebAppProducto3\WebAppProducto3\bin\roslyn\csi.exe
+C:\Users\artur\Desktop\pagina\WebAppProducto3\WebAppProducto3\bin\roslyn\csi.rsp
+C:\Users\artur\Desktop\pagina\WebAppProducto3\WebAppProducto3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\artur\Desktop\pagina\WebAppProducto3\WebAppProducto3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\artur\Desktop\pagina\WebAppProducto3\WebAppProducto3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\artur\Desktop\pagina\WebAppProducto3\WebAppProducto3\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\artur\Desktop\pagina\WebAppProducto3\WebAppProducto3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\artur\Desktop\pagina\WebAppProducto3\WebAppProducto3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\artur\Desktop\pagina\WebAppProducto3\WebAppProducto3\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\artur\Desktop\pagina\WebAppProducto3\WebAppProducto3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\artur\Desktop\pagina\WebAppProducto3\WebAppProducto3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\artur\Desktop\pagina\WebAppProducto3\WebAppProducto3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\artur\Desktop\pagina\WebAppProducto3\WebAppProducto3\bin\roslyn\System.AppContext.dll
+C:\Users\artur\Desktop\pagina\WebAppProducto3\WebAppProducto3\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\artur\Desktop\pagina\WebAppProducto3\WebAppProducto3\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\artur\Desktop\pagina\WebAppProducto3\WebAppProducto3\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\artur\Desktop\pagina\WebAppProducto3\WebAppProducto3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\artur\Desktop\pagina\WebAppProducto3\WebAppProducto3\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\artur\Desktop\pagina\WebAppProducto3\WebAppProducto3\bin\roslyn\vbc.exe
+C:\Users\artur\Desktop\pagina\WebAppProducto3\WebAppProducto3\bin\roslyn\vbc.exe.config
+C:\Users\artur\Desktop\pagina\WebAppProducto3\WebAppProducto3\bin\roslyn\vbc.rsp
+C:\Users\artur\Desktop\pagina\WebAppProducto3\WebAppProducto3\bin\roslyn\VBCSCompiler.exe
+C:\Users\artur\Desktop\pagina\WebAppProducto3\WebAppProducto3\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\artur\Desktop\pagina\WebAppProducto3\WebAppProducto3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\artur\Desktop\pagina\WebAppProducto3\WebAppProducto3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\artur\Desktop\pagina\WebAppProducto3\WebAppProducto3\obj\Debug\WebAppProducto3.csproj.CoreCompileInputs.cache
+C:\Users\artur\Desktop\pagina\WebAppProducto3\WebAppProducto3\obj\Debug\WebAppProducto3.csproj.CopyComplete
+C:\Users\artur\Desktop\pagina\WebAppProducto3\WebAppProducto3\obj\Debug\WebAppProducto3.dll
+C:\Users\artur\Desktop\pagina\WebAppProducto3\WebAppProducto3\obj\Debug\WebAppProducto3.pdb
+C:\Users\artur\Desktop\pagina\WebAppProducto3\WebAppProducto3\bin\ClassLogicaNegociosPagos.dll
+C:\Users\artur\Desktop\pagina\WebAppProducto3\WebAppProducto3\bin\ClassAccesoDatosSQL.dll
+C:\Users\artur\Desktop\pagina\WebAppProducto3\WebAppProducto3\bin\ClassLogicaNegociosPagos.pdb
+C:\Users\artur\Desktop\pagina\WebAppProducto3\WebAppProducto3\bin\ClassAccesoDatosSQL.pdb
+C:\Users\artur\Desktop\pagina\WebAppProducto3\WebAppProducto3\obj\Debug\WebAppProducto3.csprojAssemblyReference.cache
+C:\Users\Phenom01\Desktop\WebAppProducto3\WebAppProducto3\bin\WebAppProducto3.dll.config
+C:\Users\Phenom01\Desktop\WebAppProducto3\WebAppProducto3\bin\WebAppProducto3.dll
+C:\Users\Phenom01\Desktop\WebAppProducto3\WebAppProducto3\bin\WebAppProducto3.pdb
+C:\Users\Phenom01\Desktop\WebAppProducto3\WebAppProducto3\bin\roslyn\csc.exe
+C:\Users\Phenom01\Desktop\WebAppProducto3\WebAppProducto3\bin\roslyn\csc.exe.config
+C:\Users\Phenom01\Desktop\WebAppProducto3\WebAppProducto3\bin\roslyn\csc.rsp
+C:\Users\Phenom01\Desktop\WebAppProducto3\WebAppProducto3\bin\roslyn\csi.exe
+C:\Users\Phenom01\Desktop\WebAppProducto3\WebAppProducto3\bin\roslyn\csi.rsp
+C:\Users\Phenom01\Desktop\WebAppProducto3\WebAppProducto3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Phenom01\Desktop\WebAppProducto3\WebAppProducto3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Phenom01\Desktop\WebAppProducto3\WebAppProducto3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Phenom01\Desktop\WebAppProducto3\WebAppProducto3\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Phenom01\Desktop\WebAppProducto3\WebAppProducto3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Phenom01\Desktop\WebAppProducto3\WebAppProducto3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Phenom01\Desktop\WebAppProducto3\WebAppProducto3\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Phenom01\Desktop\WebAppProducto3\WebAppProducto3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Phenom01\Desktop\WebAppProducto3\WebAppProducto3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Phenom01\Desktop\WebAppProducto3\WebAppProducto3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Phenom01\Desktop\WebAppProducto3\WebAppProducto3\bin\roslyn\System.AppContext.dll
+C:\Users\Phenom01\Desktop\WebAppProducto3\WebAppProducto3\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Phenom01\Desktop\WebAppProducto3\WebAppProducto3\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Phenom01\Desktop\WebAppProducto3\WebAppProducto3\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Phenom01\Desktop\WebAppProducto3\WebAppProducto3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Phenom01\Desktop\WebAppProducto3\WebAppProducto3\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Phenom01\Desktop\WebAppProducto3\WebAppProducto3\bin\roslyn\vbc.exe
+C:\Users\Phenom01\Desktop\WebAppProducto3\WebAppProducto3\bin\roslyn\vbc.exe.config
+C:\Users\Phenom01\Desktop\WebAppProducto3\WebAppProducto3\bin\roslyn\vbc.rsp
+C:\Users\Phenom01\Desktop\WebAppProducto3\WebAppProducto3\bin\roslyn\VBCSCompiler.exe
+C:\Users\Phenom01\Desktop\WebAppProducto3\WebAppProducto3\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Phenom01\Desktop\WebAppProducto3\WebAppProducto3\bin\ClassAccesoDatosSQL.dll
+C:\Users\Phenom01\Desktop\WebAppProducto3\WebAppProducto3\bin\ClassLogicaNegociosPagos.dll
+C:\Users\Phenom01\Desktop\WebAppProducto3\WebAppProducto3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Phenom01\Desktop\WebAppProducto3\WebAppProducto3\bin\ClassAccesoDatosSQL.pdb
+C:\Users\Phenom01\Desktop\WebAppProducto3\WebAppProducto3\bin\ClassLogicaNegociosPagos.pdb
+C:\Users\Phenom01\Desktop\WebAppProducto3\WebAppProducto3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Phenom01\Desktop\WebAppProducto3\WebAppProducto3\obj\Debug\WebAppProducto3.csproj.CoreCompileInputs.cache
+C:\Users\Phenom01\Desktop\WebAppProducto3\WebAppProducto3\obj\Debug\WebAppProducto3.csproj.CopyComplete
+C:\Users\Phenom01\Desktop\WebAppProducto3\WebAppProducto3\obj\Debug\WebAppProducto3.dll
+C:\Users\Phenom01\Desktop\WebAppProducto3\WebAppProducto3\obj\Debug\WebAppProducto3.pdb
+C:\Users\Phenom01\Desktop\WebAppProducto3\WebAppProducto3\obj\Debug\WebAppProducto3.csprojAssemblyReference.cache
+C:\Users\artur\OneDrive\Música\Escritorio\proyecto web\WebAppProducto3\WebAppProducto3\bin\WebAppProducto3.dll.config
+C:\Users\artur\OneDrive\Música\Escritorio\proyecto web\WebAppProducto3\WebAppProducto3\bin\WebAppProducto3.dll
+C:\Users\artur\OneDrive\Música\Escritorio\proyecto web\WebAppProducto3\WebAppProducto3\bin\WebAppProducto3.pdb
+C:\Users\artur\OneDrive\Música\Escritorio\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\csc.exe
+C:\Users\artur\OneDrive\Música\Escritorio\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\csc.exe.config
+C:\Users\artur\OneDrive\Música\Escritorio\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\csc.rsp
+C:\Users\artur\OneDrive\Música\Escritorio\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\csi.exe
+C:\Users\artur\OneDrive\Música\Escritorio\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\csi.rsp
+C:\Users\artur\OneDrive\Música\Escritorio\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\artur\OneDrive\Música\Escritorio\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\artur\OneDrive\Música\Escritorio\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\artur\OneDrive\Música\Escritorio\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\artur\OneDrive\Música\Escritorio\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\artur\OneDrive\Música\Escritorio\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\artur\OneDrive\Música\Escritorio\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\artur\OneDrive\Música\Escritorio\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\artur\OneDrive\Música\Escritorio\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\artur\OneDrive\Música\Escritorio\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\artur\OneDrive\Música\Escritorio\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\System.AppContext.dll
+C:\Users\artur\OneDrive\Música\Escritorio\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\artur\OneDrive\Música\Escritorio\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\artur\OneDrive\Música\Escritorio\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\artur\OneDrive\Música\Escritorio\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\artur\OneDrive\Música\Escritorio\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\artur\OneDrive\Música\Escritorio\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\vbc.exe
+C:\Users\artur\OneDrive\Música\Escritorio\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\vbc.exe.config
+C:\Users\artur\OneDrive\Música\Escritorio\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\vbc.rsp
+C:\Users\artur\OneDrive\Música\Escritorio\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\VBCSCompiler.exe
+C:\Users\artur\OneDrive\Música\Escritorio\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\artur\OneDrive\Música\Escritorio\proyecto web\WebAppProducto3\WebAppProducto3\bin\ClassAccesoDatosSQL.dll
+C:\Users\artur\OneDrive\Música\Escritorio\proyecto web\WebAppProducto3\WebAppProducto3\bin\ClassLogicaNegociosPagos.dll
+C:\Users\artur\OneDrive\Música\Escritorio\proyecto web\WebAppProducto3\WebAppProducto3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\artur\OneDrive\Música\Escritorio\proyecto web\WebAppProducto3\WebAppProducto3\bin\ClassAccesoDatosSQL.pdb
+C:\Users\artur\OneDrive\Música\Escritorio\proyecto web\WebAppProducto3\WebAppProducto3\bin\ClassLogicaNegociosPagos.pdb
+C:\Users\artur\OneDrive\Música\Escritorio\proyecto web\WebAppProducto3\WebAppProducto3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\artur\OneDrive\Música\Escritorio\proyecto web\WebAppProducto3\WebAppProducto3\obj\Debug\WebAppProducto3.csproj.CopyComplete
+C:\Users\artur\OneDrive\Música\Escritorio\proyecto web\WebAppProducto3\WebAppProducto3\obj\Debug\WebAppProducto3.dll
+C:\Users\artur\OneDrive\Música\Escritorio\proyecto web\WebAppProducto3\WebAppProducto3\obj\Debug\WebAppProducto3.pdb
+C:\Users\artur\OneDrive\Música\Escritorio\Materias\9\Desarrollo de aplicaciones web\proyecto web\WebAppProducto3\WebAppProducto3\bin\WebAppProducto3.dll.config
+C:\Users\artur\OneDrive\Música\Escritorio\Materias\9\Desarrollo de aplicaciones web\proyecto web\WebAppProducto3\WebAppProducto3\bin\WebAppProducto3.dll
+C:\Users\artur\OneDrive\Música\Escritorio\Materias\9\Desarrollo de aplicaciones web\proyecto web\WebAppProducto3\WebAppProducto3\bin\WebAppProducto3.pdb
+C:\Users\artur\OneDrive\Música\Escritorio\Materias\9\Desarrollo de aplicaciones web\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\csc.exe
+C:\Users\artur\OneDrive\Música\Escritorio\Materias\9\Desarrollo de aplicaciones web\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\csc.exe.config
+C:\Users\artur\OneDrive\Música\Escritorio\Materias\9\Desarrollo de aplicaciones web\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\csc.rsp
+C:\Users\artur\OneDrive\Música\Escritorio\Materias\9\Desarrollo de aplicaciones web\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\csi.exe
+C:\Users\artur\OneDrive\Música\Escritorio\Materias\9\Desarrollo de aplicaciones web\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\csi.rsp
+C:\Users\artur\OneDrive\Música\Escritorio\Materias\9\Desarrollo de aplicaciones web\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\artur\OneDrive\Música\Escritorio\Materias\9\Desarrollo de aplicaciones web\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\artur\OneDrive\Música\Escritorio\Materias\9\Desarrollo de aplicaciones web\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\artur\OneDrive\Música\Escritorio\Materias\9\Desarrollo de aplicaciones web\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\artur\OneDrive\Música\Escritorio\Materias\9\Desarrollo de aplicaciones web\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\artur\OneDrive\Música\Escritorio\Materias\9\Desarrollo de aplicaciones web\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\artur\OneDrive\Música\Escritorio\Materias\9\Desarrollo de aplicaciones web\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\artur\OneDrive\Música\Escritorio\Materias\9\Desarrollo de aplicaciones web\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\artur\OneDrive\Música\Escritorio\Materias\9\Desarrollo de aplicaciones web\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\artur\OneDrive\Música\Escritorio\Materias\9\Desarrollo de aplicaciones web\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\artur\OneDrive\Música\Escritorio\Materias\9\Desarrollo de aplicaciones web\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\System.AppContext.dll
+C:\Users\artur\OneDrive\Música\Escritorio\Materias\9\Desarrollo de aplicaciones web\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\artur\OneDrive\Música\Escritorio\Materias\9\Desarrollo de aplicaciones web\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\artur\OneDrive\Música\Escritorio\Materias\9\Desarrollo de aplicaciones web\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\artur\OneDrive\Música\Escritorio\Materias\9\Desarrollo de aplicaciones web\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\artur\OneDrive\Música\Escritorio\Materias\9\Desarrollo de aplicaciones web\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\artur\OneDrive\Música\Escritorio\Materias\9\Desarrollo de aplicaciones web\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\vbc.exe
+C:\Users\artur\OneDrive\Música\Escritorio\Materias\9\Desarrollo de aplicaciones web\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\vbc.exe.config
+C:\Users\artur\OneDrive\Música\Escritorio\Materias\9\Desarrollo de aplicaciones web\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\vbc.rsp
+C:\Users\artur\OneDrive\Música\Escritorio\Materias\9\Desarrollo de aplicaciones web\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\VBCSCompiler.exe
+C:\Users\artur\OneDrive\Música\Escritorio\Materias\9\Desarrollo de aplicaciones web\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\artur\OneDrive\Música\Escritorio\Materias\9\Desarrollo de aplicaciones web\proyecto web\WebAppProducto3\WebAppProducto3\bin\ClassAccesoDatosSQL.dll
+C:\Users\artur\OneDrive\Música\Escritorio\Materias\9\Desarrollo de aplicaciones web\proyecto web\WebAppProducto3\WebAppProducto3\bin\ClassLogicaNegociosPagos.dll
+C:\Users\artur\OneDrive\Música\Escritorio\Materias\9\Desarrollo de aplicaciones web\proyecto web\WebAppProducto3\WebAppProducto3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\artur\OneDrive\Música\Escritorio\Materias\9\Desarrollo de aplicaciones web\proyecto web\WebAppProducto3\WebAppProducto3\bin\ClassAccesoDatosSQL.pdb
+C:\Users\artur\OneDrive\Música\Escritorio\Materias\9\Desarrollo de aplicaciones web\proyecto web\WebAppProducto3\WebAppProducto3\bin\ClassLogicaNegociosPagos.pdb
+C:\Users\artur\OneDrive\Música\Escritorio\Materias\9\Desarrollo de aplicaciones web\proyecto web\WebAppProducto3\WebAppProducto3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\artur\OneDrive\Música\Escritorio\Materias\9\Desarrollo de aplicaciones web\proyecto web\WebAppProducto3\WebAppProducto3\obj\Debug\WebAppProducto3.csproj.CopyComplete
+C:\Users\artur\OneDrive\Música\Escritorio\Materias\9\Desarrollo de aplicaciones web\proyecto web\WebAppProducto3\WebAppProducto3\obj\Debug\WebAppProducto3.dll
+C:\Users\artur\OneDrive\Música\Escritorio\Materias\9\Desarrollo de aplicaciones web\proyecto web\WebAppProducto3\WebAppProducto3\obj\Debug\WebAppProducto3.pdb
+C:\Users\artur\OneDrive\Música\Escritorio\Materias\9\Desarrollo de aplicaciones web\proyecto web\WebAppProducto3\WebAppProducto3\obj\Debug\WebAppProducto3.csprojAssemblyReference.cache
+C:\Users\artur\OneDrive\Música\Escritorio\Materias\9\Desarrollo de aplicaciones web\proyecto web\WebAppProducto3\WebAppProducto3\bin\EASendMail.dll
+C:\Users\ploz2\Downloads\P_SI\a\proyecto web\WebAppProducto3\WebAppProducto3\bin\WebAppProducto3.dll.config
+C:\Users\ploz2\Downloads\P_SI\a\proyecto web\WebAppProducto3\WebAppProducto3\bin\WebAppProducto3.dll
+C:\Users\ploz2\Downloads\P_SI\a\proyecto web\WebAppProducto3\WebAppProducto3\bin\WebAppProducto3.pdb
+C:\Users\ploz2\Downloads\P_SI\a\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\csc.exe
+C:\Users\ploz2\Downloads\P_SI\a\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\csc.exe.config
+C:\Users\ploz2\Downloads\P_SI\a\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\csc.rsp
+C:\Users\ploz2\Downloads\P_SI\a\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\csi.exe
+C:\Users\ploz2\Downloads\P_SI\a\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\csi.rsp
+C:\Users\ploz2\Downloads\P_SI\a\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ploz2\Downloads\P_SI\a\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ploz2\Downloads\P_SI\a\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ploz2\Downloads\P_SI\a\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ploz2\Downloads\P_SI\a\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ploz2\Downloads\P_SI\a\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ploz2\Downloads\P_SI\a\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ploz2\Downloads\P_SI\a\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ploz2\Downloads\P_SI\a\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ploz2\Downloads\P_SI\a\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ploz2\Downloads\P_SI\a\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\System.AppContext.dll
+C:\Users\ploz2\Downloads\P_SI\a\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ploz2\Downloads\P_SI\a\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ploz2\Downloads\P_SI\a\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ploz2\Downloads\P_SI\a\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ploz2\Downloads\P_SI\a\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ploz2\Downloads\P_SI\a\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\vbc.exe
+C:\Users\ploz2\Downloads\P_SI\a\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\vbc.exe.config
+C:\Users\ploz2\Downloads\P_SI\a\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\vbc.rsp
+C:\Users\ploz2\Downloads\P_SI\a\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\VBCSCompiler.exe
+C:\Users\ploz2\Downloads\P_SI\a\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ploz2\Downloads\P_SI\a\proyecto web\WebAppProducto3\WebAppProducto3\bin\ClassAccesoDatosSQL.dll
+C:\Users\ploz2\Downloads\P_SI\a\proyecto web\WebAppProducto3\WebAppProducto3\bin\ClassLogicaNegociosPagos.dll
+C:\Users\ploz2\Downloads\P_SI\a\proyecto web\WebAppProducto3\WebAppProducto3\bin\EASendMail.dll
+C:\Users\ploz2\Downloads\P_SI\a\proyecto web\WebAppProducto3\WebAppProducto3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ploz2\Downloads\P_SI\a\proyecto web\WebAppProducto3\WebAppProducto3\bin\ClassAccesoDatosSQL.pdb
+C:\Users\ploz2\Downloads\P_SI\a\proyecto web\WebAppProducto3\WebAppProducto3\bin\ClassLogicaNegociosPagos.pdb
+C:\Users\ploz2\Downloads\P_SI\a\proyecto web\WebAppProducto3\WebAppProducto3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ploz2\Downloads\P_SI\a\proyecto web\WebAppProducto3\WebAppProducto3\obj\Debug\WebAppProducto3.csprojAssemblyReference.cache
+C:\Users\ploz2\Downloads\P_SI\a\proyecto web\WebAppProducto3\WebAppProducto3\obj\Debug\WebAppProducto3.csproj.CoreCompileInputs.cache
+C:\Users\ploz2\Downloads\P_SI\a\proyecto web\WebAppProducto3\WebAppProducto3\obj\Debug\WebAppProducto3.csproj.CopyComplete
+C:\Users\ploz2\Downloads\P_SI\a\proyecto web\WebAppProducto3\WebAppProducto3\obj\Debug\WebAppProducto3.dll
+C:\Users\ploz2\Downloads\P_SI\a\proyecto web\WebAppProducto3\WebAppProducto3\obj\Debug\WebAppProducto3.pdb
+C:\Users\ploz2\Downloads\P_SI\org a\a\proyecto web\WebAppProducto3\WebAppProducto3\obj\Debug\WebAppProducto3.csprojAssemblyReference.cache
+C:\Users\ploz2\Downloads\P_SI\org a\a\proyecto web\WebAppProducto3\WebAppProducto3\obj\Debug\WebAppProducto3.csproj.CoreCompileInputs.cache
+C:\Users\ploz2\Downloads\P_SI\org a\a\proyecto web\WebAppProducto3\WebAppProducto3\obj\Debug\WebAppProducto3.dll
+C:\Users\ploz2\Downloads\P_SI\org a\a\proyecto web\WebAppProducto3\WebAppProducto3\obj\Debug\WebAppProducto3.pdb
+C:\Users\ploz2\Downloads\P_SI\org a\a\proyecto web\WebAppProducto3\WebAppProducto3\bin\WebAppProducto3.dll.config
+C:\Users\ploz2\Downloads\P_SI\org a\a\proyecto web\WebAppProducto3\WebAppProducto3\bin\WebAppProducto3.dll
+C:\Users\ploz2\Downloads\P_SI\org a\a\proyecto web\WebAppProducto3\WebAppProducto3\bin\WebAppProducto3.pdb
+C:\Users\ploz2\Downloads\P_SI\org a\a\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\csc.exe
+C:\Users\ploz2\Downloads\P_SI\org a\a\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\csc.exe.config
+C:\Users\ploz2\Downloads\P_SI\org a\a\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\csc.rsp
+C:\Users\ploz2\Downloads\P_SI\org a\a\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\csi.exe
+C:\Users\ploz2\Downloads\P_SI\org a\a\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\csi.rsp
+C:\Users\ploz2\Downloads\P_SI\org a\a\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ploz2\Downloads\P_SI\org a\a\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ploz2\Downloads\P_SI\org a\a\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ploz2\Downloads\P_SI\org a\a\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ploz2\Downloads\P_SI\org a\a\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ploz2\Downloads\P_SI\org a\a\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ploz2\Downloads\P_SI\org a\a\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ploz2\Downloads\P_SI\org a\a\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ploz2\Downloads\P_SI\org a\a\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ploz2\Downloads\P_SI\org a\a\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ploz2\Downloads\P_SI\org a\a\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\System.AppContext.dll
+C:\Users\ploz2\Downloads\P_SI\org a\a\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ploz2\Downloads\P_SI\org a\a\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ploz2\Downloads\P_SI\org a\a\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ploz2\Downloads\P_SI\org a\a\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ploz2\Downloads\P_SI\org a\a\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ploz2\Downloads\P_SI\org a\a\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\vbc.exe
+C:\Users\ploz2\Downloads\P_SI\org a\a\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\vbc.exe.config
+C:\Users\ploz2\Downloads\P_SI\org a\a\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\vbc.rsp
+C:\Users\ploz2\Downloads\P_SI\org a\a\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\VBCSCompiler.exe
+C:\Users\ploz2\Downloads\P_SI\org a\a\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ploz2\Downloads\P_SI\org a\a\proyecto web\WebAppProducto3\WebAppProducto3\bin\ClassAccesoDatosSQL.dll
+C:\Users\ploz2\Downloads\P_SI\org a\a\proyecto web\WebAppProducto3\WebAppProducto3\bin\ClassLogicaNegociosPagos.dll
+C:\Users\ploz2\Downloads\P_SI\org a\a\proyecto web\WebAppProducto3\WebAppProducto3\bin\EASendMail.dll
+C:\Users\ploz2\Downloads\P_SI\org a\a\proyecto web\WebAppProducto3\WebAppProducto3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ploz2\Downloads\P_SI\org a\a\proyecto web\WebAppProducto3\WebAppProducto3\bin\ClassAccesoDatosSQL.pdb
+C:\Users\ploz2\Downloads\P_SI\org a\a\proyecto web\WebAppProducto3\WebAppProducto3\bin\ClassLogicaNegociosPagos.pdb
+C:\Users\ploz2\Downloads\P_SI\org a\a\proyecto web\WebAppProducto3\WebAppProducto3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ploz2\Downloads\P_SI\org a\a\proyecto web\WebAppProducto3\WebAppProducto3\obj\Debug\WebAppProducto3.csproj.CopyComplete
+C:\Users\ploz2\Downloads\P_SI\org a\Producto2\proyecto web\WebAppProducto3\WebAppProducto3\bin\WebAppProducto3.dll.config
+C:\Users\ploz2\Downloads\P_SI\org a\Producto2\proyecto web\WebAppProducto3\WebAppProducto3\bin\WebAppProducto3.dll
+C:\Users\ploz2\Downloads\P_SI\org a\Producto2\proyecto web\WebAppProducto3\WebAppProducto3\bin\WebAppProducto3.pdb
+C:\Users\ploz2\Downloads\P_SI\org a\Producto2\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\csc.exe
+C:\Users\ploz2\Downloads\P_SI\org a\Producto2\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\csc.exe.config
+C:\Users\ploz2\Downloads\P_SI\org a\Producto2\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\csc.rsp
+C:\Users\ploz2\Downloads\P_SI\org a\Producto2\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\csi.exe
+C:\Users\ploz2\Downloads\P_SI\org a\Producto2\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\csi.rsp
+C:\Users\ploz2\Downloads\P_SI\org a\Producto2\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ploz2\Downloads\P_SI\org a\Producto2\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ploz2\Downloads\P_SI\org a\Producto2\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ploz2\Downloads\P_SI\org a\Producto2\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ploz2\Downloads\P_SI\org a\Producto2\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ploz2\Downloads\P_SI\org a\Producto2\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ploz2\Downloads\P_SI\org a\Producto2\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ploz2\Downloads\P_SI\org a\Producto2\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ploz2\Downloads\P_SI\org a\Producto2\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ploz2\Downloads\P_SI\org a\Producto2\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ploz2\Downloads\P_SI\org a\Producto2\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\System.AppContext.dll
+C:\Users\ploz2\Downloads\P_SI\org a\Producto2\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ploz2\Downloads\P_SI\org a\Producto2\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ploz2\Downloads\P_SI\org a\Producto2\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ploz2\Downloads\P_SI\org a\Producto2\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ploz2\Downloads\P_SI\org a\Producto2\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ploz2\Downloads\P_SI\org a\Producto2\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\vbc.exe
+C:\Users\ploz2\Downloads\P_SI\org a\Producto2\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\vbc.exe.config
+C:\Users\ploz2\Downloads\P_SI\org a\Producto2\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\vbc.rsp
+C:\Users\ploz2\Downloads\P_SI\org a\Producto2\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\VBCSCompiler.exe
+C:\Users\ploz2\Downloads\P_SI\org a\Producto2\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ploz2\Downloads\P_SI\org a\Producto2\proyecto web\WebAppProducto3\WebAppProducto3\bin\ClassAccesoDatosSQL.dll
+C:\Users\ploz2\Downloads\P_SI\org a\Producto2\proyecto web\WebAppProducto3\WebAppProducto3\bin\ClassLogicaNegociosPagos.dll
+C:\Users\ploz2\Downloads\P_SI\org a\Producto2\proyecto web\WebAppProducto3\WebAppProducto3\bin\EASendMail.dll
+C:\Users\ploz2\Downloads\P_SI\org a\Producto2\proyecto web\WebAppProducto3\WebAppProducto3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ploz2\Downloads\P_SI\org a\Producto2\proyecto web\WebAppProducto3\WebAppProducto3\bin\ClassAccesoDatosSQL.pdb
+C:\Users\ploz2\Downloads\P_SI\org a\Producto2\proyecto web\WebAppProducto3\WebAppProducto3\bin\ClassLogicaNegociosPagos.pdb
+C:\Users\ploz2\Downloads\P_SI\org a\Producto2\proyecto web\WebAppProducto3\WebAppProducto3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ploz2\Downloads\P_SI\org a\Producto2\proyecto web\WebAppProducto3\WebAppProducto3\obj\Debug\WebAppProducto3.csprojAssemblyReference.cache
+C:\Users\ploz2\Downloads\P_SI\org a\Producto2\proyecto web\WebAppProducto3\WebAppProducto3\obj\Debug\WebAppProducto3.csproj.CoreCompileInputs.cache
+C:\Users\ploz2\Downloads\P_SI\org a\Producto2\proyecto web\WebAppProducto3\WebAppProducto3\obj\Debug\WebAppProducto3.csproj.CopyComplete
+C:\Users\ploz2\Downloads\P_SI\org a\Producto2\proyecto web\WebAppProducto3\WebAppProducto3\obj\Debug\WebAppProducto3.dll
+C:\Users\ploz2\Downloads\P_SI\org a\Producto2\proyecto web\WebAppProducto3\WebAppProducto3\obj\Debug\WebAppProducto3.pdb
+C:\Users\Emmanuel Bazan\Documents\utp\8°\desaroollo web\Producto 3\proyecto web\WebAppProducto3\WebAppProducto3\bin\WebAppProducto3.dll.config
+C:\Users\Emmanuel Bazan\Documents\utp\8°\desaroollo web\Producto 3\proyecto web\WebAppProducto3\WebAppProducto3\bin\WebAppProducto3.dll
+C:\Users\Emmanuel Bazan\Documents\utp\8°\desaroollo web\Producto 3\proyecto web\WebAppProducto3\WebAppProducto3\bin\WebAppProducto3.pdb
+C:\Users\Emmanuel Bazan\Documents\utp\8°\desaroollo web\Producto 3\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\csc.exe
+C:\Users\Emmanuel Bazan\Documents\utp\8°\desaroollo web\Producto 3\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\csc.exe.config
+C:\Users\Emmanuel Bazan\Documents\utp\8°\desaroollo web\Producto 3\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\csc.rsp
+C:\Users\Emmanuel Bazan\Documents\utp\8°\desaroollo web\Producto 3\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\csi.exe
+C:\Users\Emmanuel Bazan\Documents\utp\8°\desaroollo web\Producto 3\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\csi.rsp
+C:\Users\Emmanuel Bazan\Documents\utp\8°\desaroollo web\Producto 3\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Emmanuel Bazan\Documents\utp\8°\desaroollo web\Producto 3\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Emmanuel Bazan\Documents\utp\8°\desaroollo web\Producto 3\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Emmanuel Bazan\Documents\utp\8°\desaroollo web\Producto 3\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Emmanuel Bazan\Documents\utp\8°\desaroollo web\Producto 3\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Emmanuel Bazan\Documents\utp\8°\desaroollo web\Producto 3\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Emmanuel Bazan\Documents\utp\8°\desaroollo web\Producto 3\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Emmanuel Bazan\Documents\utp\8°\desaroollo web\Producto 3\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Emmanuel Bazan\Documents\utp\8°\desaroollo web\Producto 3\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Emmanuel Bazan\Documents\utp\8°\desaroollo web\Producto 3\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Emmanuel Bazan\Documents\utp\8°\desaroollo web\Producto 3\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\System.AppContext.dll
+C:\Users\Emmanuel Bazan\Documents\utp\8°\desaroollo web\Producto 3\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Emmanuel Bazan\Documents\utp\8°\desaroollo web\Producto 3\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Emmanuel Bazan\Documents\utp\8°\desaroollo web\Producto 3\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Emmanuel Bazan\Documents\utp\8°\desaroollo web\Producto 3\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Emmanuel Bazan\Documents\utp\8°\desaroollo web\Producto 3\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Emmanuel Bazan\Documents\utp\8°\desaroollo web\Producto 3\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\vbc.exe
+C:\Users\Emmanuel Bazan\Documents\utp\8°\desaroollo web\Producto 3\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\vbc.exe.config
+C:\Users\Emmanuel Bazan\Documents\utp\8°\desaroollo web\Producto 3\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\vbc.rsp
+C:\Users\Emmanuel Bazan\Documents\utp\8°\desaroollo web\Producto 3\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\VBCSCompiler.exe
+C:\Users\Emmanuel Bazan\Documents\utp\8°\desaroollo web\Producto 3\proyecto web\WebAppProducto3\WebAppProducto3\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Emmanuel Bazan\Documents\utp\8°\desaroollo web\Producto 3\proyecto web\WebAppProducto3\WebAppProducto3\bin\ClassAccesoDatosSQL.dll
+C:\Users\Emmanuel Bazan\Documents\utp\8°\desaroollo web\Producto 3\proyecto web\WebAppProducto3\WebAppProducto3\bin\ClassLogicaNegociosPagos.dll
+C:\Users\Emmanuel Bazan\Documents\utp\8°\desaroollo web\Producto 3\proyecto web\WebAppProducto3\WebAppProducto3\bin\EASendMail.dll
+C:\Users\Emmanuel Bazan\Documents\utp\8°\desaroollo web\Producto 3\proyecto web\WebAppProducto3\WebAppProducto3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Emmanuel Bazan\Documents\utp\8°\desaroollo web\Producto 3\proyecto web\WebAppProducto3\WebAppProducto3\bin\ClassAccesoDatosSQL.pdb
+C:\Users\Emmanuel Bazan\Documents\utp\8°\desaroollo web\Producto 3\proyecto web\WebAppProducto3\WebAppProducto3\bin\ClassLogicaNegociosPagos.pdb
+C:\Users\Emmanuel Bazan\Documents\utp\8°\desaroollo web\Producto 3\proyecto web\WebAppProducto3\WebAppProducto3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Emmanuel Bazan\Documents\utp\8°\desaroollo web\Producto 3\proyecto web\WebAppProducto3\WebAppProducto3\obj\Debug\WebAppProducto3.csproj.CoreCompileInputs.cache
+C:\Users\Emmanuel Bazan\Documents\utp\8°\desaroollo web\Producto 3\proyecto web\WebAppProducto3\WebAppProducto3\obj\Debug\WebAppProducto3.csproj.CopyComplete
+C:\Users\Emmanuel Bazan\Documents\utp\8°\desaroollo web\Producto 3\proyecto web\WebAppProducto3\WebAppProducto3\obj\Debug\WebAppProducto3.dll
+C:\Users\Emmanuel Bazan\Documents\utp\8°\desaroollo web\Producto 3\proyecto web\WebAppProducto3\WebAppProducto3\obj\Debug\WebAppProducto3.pdb
