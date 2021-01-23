@@ -319,3 +319,4 @@ C:\Users\Emmanuel Bazan\Documents\utp\8°\desaroollo web\Producto 3\proyecto web
 C:\Users\Emmanuel Bazan\Documents\utp\8°\desaroollo web\Producto 3\proyecto web\WebAppProducto3\WebAppProducto3\obj\Debug\WebAppProducto3.csproj.CopyComplete
 C:\Users\Emmanuel Bazan\Documents\utp\8°\desaroollo web\Producto 3\proyecto web\WebAppProducto3\WebAppProducto3\obj\Debug\WebAppProducto3.dll
 C:\Users\Emmanuel Bazan\Documents\utp\8°\desaroollo web\Producto 3\proyecto web\WebAppProducto3\WebAppProducto3\obj\Debug\WebAppProducto3.pdb
+C:\Users\Emmanuel Bazan\Documents\utp\8°\desaroollo web\Producto 3\proyecto web\WebAppProducto3\WebAppProducto3\obj\Debug\WebAppProducto3.csprojAssemblyReference.cache

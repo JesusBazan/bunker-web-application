@@ -19,7 +19,8 @@ namespace WebAppProducto3
 
         public void mimensaje(string Mensaje)
         {
-            Response.Write("<script type='text/javascript'> alert('" + Mensaje + "'); </script>");
+            //Response.Write("<script type='text/javascript'> alert('" + Mensaje + "'); </script>");
+            ScriptManager.RegisterClientScriptBlock(this, this.GetType(), Mensaje, "alert('Record Inserted Successfully')", true);
         }
 
         protected void btnRegistrarAlumno_Click(object sender, EventArgs e)
