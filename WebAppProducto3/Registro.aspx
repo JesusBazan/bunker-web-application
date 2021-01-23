@@ -149,24 +149,32 @@
     <form id="form1" runat="server">
 
      <div id="subMenus">
-          
-             <br/><h1>Registrate</h1><br/><br/>
+             <br/>
+             <h1>Registrate</h1>
+            <br/>
+            <br/>
 
              <asp:TextBox ID="txtRegnom" runat="server"  CssClass="DefaultText" ToolTip="Nombre completo"></asp:TextBox>
                 <asp:RequiredFieldValidator ID="RequiredFieldValidator2" runat="server" ControlToValidate="txtRegnom" ErrorMessage="Ingresa un nombre" ForeColor="Red"></asp:RequiredFieldValidator>
+                <asp:RegularExpressionValidator ID="RegularExpressionValidator3" runat="server" ControlToValidate="txtRegnom" ErrorMessage="solo caracteres alfabeticos" ForeColor="Red" ValidationExpression="^[a-zA-Z\s]+$"></asp:RegularExpressionValidator>
+
              <br /><br />
+
              <asp:TextBox ID="txtRegapp" runat="server"  CssClass="DefaultText" ToolTip="Apellido paterno"></asp:TextBox>
                 <asp:RequiredFieldValidator ID="RequiredFieldValidator1" runat="server" ControlToValidate="txtRegapp" ErrorMessage="Ingresa un apellido paterno" ForeColor="Red"></asp:RequiredFieldValidator>
+
              <br /><br />
+
              <asp:TextBox ID="txtRegapm" runat="server" CssClass="DefaultText" ToolTip="Apellido materno"></asp:TextBox>
                 <asp:RequiredFieldValidator ID="RequiredFieldValidator3" runat="server" ControlToValidate="txtRegapm" ErrorMessage="Ingresa un apellido materno" ForeColor="Red"></asp:RequiredFieldValidator>
+
              <br /><br />
+
              <asp:TextBox ID="txtRegtel" runat="server" ToolTip="Telefono" CssClass="DefaultText"></asp:TextBox>
-             
+             <asp:RegularExpressionValidator ID="RegularExpressionValidator1" runat="server" ControlToValidate="txtRegtel" ErrorMessage="10 caracteres numericos necesarios" ForeColor="Red" ValidationExpression="\d{10}"></asp:RegularExpressionValidator>
 
              <br /><br />
              <asp:TextBox ID="txtRegemail" runat="server" ToolTip="Correo Electronico" CssClass="DefaultText"></asp:TextBox>
-
              <asp:RegularExpressionValidator ID="RegularExpressionValidator2" runat="server" ControlToValidate="txtRegemail" ErrorMessage="Correo Invalido" ForeColor="Red" ValidationExpression="\w+([-+.']\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*"></asp:RegularExpressionValidator>
 
              <br /><br />
