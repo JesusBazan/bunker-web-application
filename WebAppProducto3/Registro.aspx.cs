@@ -20,7 +20,7 @@ namespace WebAppProducto3
         public void mimensaje(string Mensaje)
         {
             //Response.Write("<script type='text/javascript'> alert('" + Mensaje + "'); </script>");
-            ScriptManager.RegisterClientScriptBlock(this, this.GetType(), Mensaje, "alert('Record Inserted Successfully')", true);
+            ScriptManager.RegisterClientScriptBlock(this, this.GetType(), "alertMessage", "alert('" + Mensaje + "')", true);
         }
 
         protected void btnRegistrarAlumno_Click(object sender, EventArgs e)
@@ -49,15 +49,14 @@ namespace WebAppProducto3
                 conf = logi.ContrasenaSegura(txtRegpass.Text);//validacion de la contraseña
                 if (conf == false)//contenido de la contraseña incorrecto
                 {
-                    s = "Su contraseña debe tener al menos 8 caracteres con un número " +
-                        "(0 - 9) y un carácter especial ([!\"#\\$%&'()*+,-./:;=?@\\[\\]^_`{|}~]) y un alfabeto (a - z o A - Z)";
+                    s = "Su contrasenia debe contener minimo 8 caractares que incluya un numero y un caracter especial";
                 }
                 else {
                     string PASS = encrypt.Encriptar(txtRegpass.Text);//Encriptacion de la contraseña
                     logi.InsertarUsuario(txtRegnom.Text, txtRegapp.Text, txtRegapm.Text, txtRegtel.Text, activo, txtRegemail.Text, PASS, rol, ref s);
                 }
             }
-            mimensaje(s);
+            ScriptManager.RegisterClientScriptBlock(this, this.GetType(), "alertMessage", "alert('" + s + "')", true);
         }
 
     }
