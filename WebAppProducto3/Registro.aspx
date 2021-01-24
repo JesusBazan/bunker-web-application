@@ -6,10 +6,10 @@
 <head runat="server">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
     <title></title>
-    <link rel="stylesheet" href="estiloLogin.css"/>
+    <link rel="stylesheet" href="newCssStyles/RegisterScreen.css"/>
 
 
-      <script src="JS/jquery-3.3.1.slim.js"></script>
+    <script src="JS/jquery-3.3.1.slim.js"></script>
     <script type="text/javascript">
 
         $(document).ready(function () {
@@ -139,16 +139,22 @@
     </script>
 
 
-    <style type="text/css">
+    <%--<style type="text/css">
         .DefaultText {}
-    </style>
+    </style>--%>
 
 
 </head>
-<body>
-    <form id="form1" runat="server">
+    <body>
+        <form id="form1" runat="server">
+            <div class="container">
+                <div class="formRegister">
+                    <h1 class="title">Registrate</h1>
+                    <input type="text" class="inputText" />
+                </div>
+            </div>
 
-     <div id="subMenus">
+        <div id="subMenus">
              <br/>
              <h1>Registrate</h1>
             <br/>

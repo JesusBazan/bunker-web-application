@@ -103,6 +103,7 @@
     <Content Include="Firma.aspx" />
     <Content Include="Global.asax" />
     <Content Include="index.aspx" />
+    <Content Include="newCssStyles\RegisterScreen.css" />
     <Content Include="script.js" />
     <Content Include="JS\jquery-3.3.1.slim.js" />
     <Content Include="Login.aspx" />
