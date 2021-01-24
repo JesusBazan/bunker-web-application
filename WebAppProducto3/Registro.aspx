@@ -150,6 +150,7 @@
             <div class="container">
                 <div class="formRegister">
                     <h1 class="title">Registrate</h1>
+                    <label>Nombre(s)</label>
                     <input type="text" class="inputText" />
                 </div>
             </div>

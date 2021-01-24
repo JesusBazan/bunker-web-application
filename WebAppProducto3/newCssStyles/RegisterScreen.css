@@ -4,10 +4,6 @@
     background-color: white;
 }
 
-#subMenus {
-    background-color: rebeccapurple;
-}
-
 .container {
     background-color: #F6F6F6;
     width: 100%;
@@ -19,18 +15,29 @@
 }
 
 .formRegister {
-    background-color: blue;
+    background-color: white;
     width: 500px;
-    height: 800px;
     display: flex;
     flex-direction: column;
     border: none;
     border-radius: 15px;
+    align-items: center;
 }
 
 .title {
     text-align: center;
-    color: #ffffff;
+    color: #0019BD;
     font-size: 40px;
     font-family: Arial, Arial, Helvetica, sans-serif;
+}
+
+.inputText {
+    background-color: #F6F6F6;
+    width: 80%;
+    height: 30px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom-color: #0019BD;
+    border-bottom-width: initial;
 }
