@@ -158,7 +158,8 @@
                             ControlToValidate="txtRegnom" 
                             ErrorMessage="solo caracteres alfabeticos" 
                             ForeColor="Red" 
-                            ValidationExpression="^[a-zA-Z\s]{1}$"
+                            ValidationGroup="validateRegister"
+                            ValidationExpression="^[a-zA-Z ]*$"
                         ></asp:RegularExpressionValidator>
 
                         <asp:Label ID="Label2" runat="server" Text="Apellido paterno" class="tager"></asp:Label>
@@ -169,7 +170,8 @@
                             ControlToValidate="txtRegapp" 
                             ErrorMessage="solo caracteres alfabeticos" 
                             ForeColor="Red" 
-                            ValidationExpression="^[a-zA-Z\s]{1}$"
+                            ValidationGroup="validateRegister"
+                            ValidationExpression="^[a-zA-Z\s]{1,}$"
                         ></asp:RegularExpressionValidator>
 
                         <asp:Label ID="Label3" runat="server" Text="Apellido materno" class="tager"></asp:Label>
@@ -180,7 +182,8 @@
                             ControlToValidate="txtRegapm" 
                             ErrorMessage="solo caracteres alfabeticos" 
                             ForeColor="Red" 
-                            ValidationExpression="^[a-zA-Z\s]{1}$"
+                            ValidationGroup="validateRegister"
+                            ValidationExpression="^[a-zA-Z\s]{1,}$"
                         ></asp:RegularExpressionValidator>
 
                         <asp:Label ID="Label4" runat="server" Text="Telefono" class="tager"></asp:Label>
@@ -191,6 +194,7 @@
                              ControlToValidate="txtRegtel" 
                              ErrorMessage="10 caracteres numericos necesarios" 
                              ForeColor="Red" 
+                             ValidationGroup="validateRegister"
                              ValidationExpression="\d{10}"
                          ></asp:RegularExpressionValidator>
 
@@ -202,6 +206,7 @@
                              ControlToValidate="txtRegemail" 
                              ErrorMessage="Correo Invalido" 
                              ForeColor="Red" 
+                             ValidationGroup="validateRegister"
                              ValidationExpression="\w+([-+.']\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*"
                          ></asp:RegularExpressionValidator>
 
@@ -214,13 +219,23 @@
                          ErrorMessage="8 - 16 catacteres, 1 numero, 1 caracter especial" 
                          ForeColor="Red" 
                          ValidationExpression="^(?=.*\d)(?=.*[\u0021-\u002b\u003c-\u0040])(?=.*[a-z])\S{8,16}$"
+                         causesvalidation="true"
+                         ValidationGroup="validateRegister"
                         ></asp:RegularExpressionValidator>
 
                         <p class="parrafo">Al registrarte, aceptas nuestras Condiciones de uso y Política de privacidad.</p>
                         <p class="parrafo">¿Ya tienes una cuenta? <a class="link" href="Login.aspx">Iniciar Sesion</a></p>
                     </div>
                     <div class="boxButton">
-                        <asp:Button ID="btnRegistrarAlumno" runat="server" Text="Registrar"  OnClick="btnRegistrarAlumno_Click" class="buttonSend"/>
+                        <asp:Button 
+                            ID="btnRegistrarAlumno" 
+                            runat="server" 
+                            Text="Registrar"  
+                            OnClick="btnRegistrarAlumno_Click" 
+                            class="buttonSend"
+                            ValidationGroup="validateRegister"
+                            causesvalidation="true"
+                        />
                     </div>
                 </form>
             </div>
