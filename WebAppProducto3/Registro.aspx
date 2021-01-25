@@ -8,7 +8,6 @@
     <title></title>
     <link rel="stylesheet" href="newCssStyles/RegisterScreen.css"/>
 
-
     <script src="JS/jquery-3.3.1.slim.js"></script>
     <script type="text/javascript">
 
@@ -138,110 +137,91 @@
         });//fin del ready
     </script>
 
-
     <%--<style type="text/css">
         .DefaultText {}
     </style>--%>
 
-
 </head>
     <body>
-        <form id="form1" runat="server">
             <div class="container">
-                <div class="formRegister">
-                    <h1 class="title">Registrate</h1>
-                    <label>Nombre(s)</label>
-                    <input type="text" class="inputText" />
-                </div>
+                <form id="form1" runat="server">
+                    <div class="formRegister">
+
+                        <h1 class="title">Registrate</h1>
+
+                        
+                        <asp:Label ID="Label1" runat="server" Text="Nombre(s)" class="tager"></asp:Label>
+                        <asp:TextBox ID="txtRegnom" runat="server"  CssClass="inputText"></asp:TextBox>
+                        <asp:RegularExpressionValidator 
+                            ID="RegularExpressionValidator3" 
+                            runat="server" 
+                            ControlToValidate="txtRegnom" 
+                            ErrorMessage="solo caracteres alfabeticos" 
+                            ForeColor="Red" 
+                            ValidationExpression="^[a-zA-Z\s]{1}$"
+                        ></asp:RegularExpressionValidator>
+
+                        <asp:Label ID="Label2" runat="server" Text="Apellido paterno" class="tager"></asp:Label>
+                        <asp:TextBox ID="txtRegapp" runat="server"  CssClass="inputText"></asp:TextBox>
+                        <asp:RegularExpressionValidator 
+                            ID="RegularExpressionValidator4" 
+                            runat="server" 
+                            ControlToValidate="txtRegapp" 
+                            ErrorMessage="solo caracteres alfabeticos" 
+                            ForeColor="Red" 
+                            ValidationExpression="^[a-zA-Z\s]{1}$"
+                        ></asp:RegularExpressionValidator>
+
+                        <asp:Label ID="Label3" runat="server" Text="Apellido materno" class="tager"></asp:Label>
+                        <asp:TextBox ID="txtRegapm" runat="server" CssClass="inputText"></asp:TextBox>
+                        <asp:RegularExpressionValidator 
+                            ID="RegularExpressionValidator5" 
+                            runat="server" 
+                            ControlToValidate="txtRegapm" 
+                            ErrorMessage="solo caracteres alfabeticos" 
+                            ForeColor="Red" 
+                            ValidationExpression="^[a-zA-Z\s]{1}$"
+                        ></asp:RegularExpressionValidator>
+
+                        <asp:Label ID="Label4" runat="server" Text="Telefono" class="tager"></asp:Label>
+                        <asp:TextBox ID="txtRegtel" runat="server" CssClass="inputText"></asp:TextBox>
+                         <asp:RegularExpressionValidator 
+                             ID="RegularExpressionValidator1" 
+                             runat="server" 
+                             ControlToValidate="txtRegtel" 
+                             ErrorMessage="10 caracteres numericos necesarios" 
+                             ForeColor="Red" 
+                             ValidationExpression="\d{10}"
+                         ></asp:RegularExpressionValidator>
+
+                        <asp:Label ID="Label5" runat="server" Text="Correo" class="tager"></asp:Label>
+                        <asp:TextBox ID="txtRegemail" runat="server" CssClass="inputText"></asp:TextBox>
+                         <asp:RegularExpressionValidator 
+                             ID="RegularExpressionValidator2" 
+                             runat="server" 
+                             ControlToValidate="txtRegemail" 
+                             ErrorMessage="Correo Invalido" 
+                             ForeColor="Red" 
+                             ValidationExpression="\w+([-+.']\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*"
+                         ></asp:RegularExpressionValidator>
+
+                        <asp:Label ID="Label6" runat="server" Text="Contrasenia" class="tager"></asp:Label>
+                        <asp:TextBox ID="txtRegpass" runat="server" CssClass="inputText"></asp:TextBox>
+                        <asp:RegularExpressionValidator 
+                         ID="RegularExpressionValidator6" 
+                         runat="server" 
+                         ControlToValidate="txtRegpass" 
+                         ErrorMessage="8 - 16 catacteres, 1 numero, 1 caracter especial" 
+                         ForeColor="Red" 
+                         ValidationExpression="^(?=.*\d)(?=.*[\u0021-\u002b\u003c-\u0040])(?=.*[a-z])\S{8,16}$"
+                     ></asp:RegularExpressionValidator>
+                    </div>
+
+                    <p>Al registrarte, aceptas nuestras Condiciones de uso y Política de privacidad.</p>
+                    <p>¿Ya tienes una cuenta?<a class="link" href="Login.aspx">Iniciar Sesion</a></p>
+
+                    <asp:Button ID="btnRegistrarAlumno" runat="server" Text="Registrar"  OnClick="btnRegistrarAlumno_Click" class="buton"/>
+                </form>
             </div>
-
-        <div id="subMenus">
-             <br/>
-             <h1>Registrate</h1>
-            <br/>
-            <br/>
-
-             <asp:TextBox ID="txtRegnom" runat="server"  CssClass="DefaultText" ToolTip="Nombre completo"></asp:TextBox>
-                <asp:RegularExpressionValidator 
-                    ID="RegularExpressionValidator3" 
-                    runat="server" 
-                    ControlToValidate="txtRegnom" 
-                    ErrorMessage="solo caracteres alfabeticos" 
-                    ForeColor="Red" 
-                    ValidationExpression="^[a-zA-Z\s]{1}$"
-                ></asp:RegularExpressionValidator>
-
-             <br /><br />
-
-             <asp:TextBox ID="txtRegapp" runat="server"  CssClass="DefaultText" ToolTip="Apellido paterno"></asp:TextBox>
-                <asp:RegularExpressionValidator 
-                    ID="RegularExpressionValidator4" 
-                    runat="server" 
-                    ControlToValidate="txtRegapp" 
-                    ErrorMessage="solo caracteres alfabeticos" 
-                    ForeColor="Red" 
-                    ValidationExpression="^[a-zA-Z\s]{1}$"
-                ></asp:RegularExpressionValidator>
-
-             <br /><br />
-
-             <asp:TextBox ID="txtRegapm" runat="server" CssClass="DefaultText" ToolTip="Apellido materno"></asp:TextBox>
-                <asp:RegularExpressionValidator 
-                    ID="RegularExpressionValidator5" 
-                    runat="server" 
-                    ControlToValidate="txtRegapm" 
-                    ErrorMessage="solo caracteres alfabeticos" 
-                    ForeColor="Red" 
-                    ValidationExpression="^[a-zA-Z\s]{1}$"
-                ></asp:RegularExpressionValidator>
-
-             <br /><br />
-
-             <asp:TextBox ID="txtRegtel" runat="server" ToolTip="Telefono" CssClass="DefaultText"></asp:TextBox>
-             <asp:RegularExpressionValidator 
-                 ID="RegularExpressionValidator1" 
-                 runat="server" 
-                 ControlToValidate="txtRegtel" 
-                 ErrorMessage="10 caracteres numericos necesarios" 
-                 ForeColor="Red" 
-                 ValidationExpression="\d{10}"
-             ></asp:RegularExpressionValidator>
-
-             <br /><br />
-             <asp:TextBox ID="txtRegemail" runat="server" ToolTip="Correo Electronico" CssClass="DefaultText"></asp:TextBox>
-             <asp:RegularExpressionValidator 
-                 ID="RegularExpressionValidator2" 
-                 runat="server" 
-                 ControlToValidate="txtRegemail" 
-                 ErrorMessage="Correo Invalido" 
-                 ForeColor="Red" 
-                 ValidationExpression="\w+([-+.']\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*"
-             ></asp:RegularExpressionValidator>
-
-             <br /><br />
-
-             <asp:TextBox ID="txtRegpass" runat="server" ToolTip="Contraseña" CssClass="DefaultText"></asp:TextBox>
-                <asp:RegularExpressionValidator 
-                 ID="RegularExpressionValidator6" 
-                 runat="server" 
-                 ControlToValidate="txtRegpass" 
-                 ErrorMessage="8 - 16 catacteres, 1 numero, 1 caracter especial" 
-                 ForeColor="Red" 
-                 ValidationExpression="^(?=.*\d)(?=.*[\u0021-\u002b\u003c-\u0040])(?=.*[a-z])\S{8,16}$"
-             ></asp:RegularExpressionValidator>
-             <br />
-
-             <br /><br />
-             <asp:Button ID="btnRegistrarAlumno" runat="server" Text="Registrar"  OnClick="btnRegistrarAlumno_Click" class="buton"/>
-             
-
-             <br />
-             <p>Al registrarte, aceptas nuestras Condiciones de uso y Política de privacidad.</p>
-           <br /><p>¿Ya tienes una cuenta?<a class="link" href="Login.aspx">Iniciar Sesion</a></p><br />
-
-    </div>
-  
-    </form>
-  
 </body>
 </html>
