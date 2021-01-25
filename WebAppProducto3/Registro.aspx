@@ -144,7 +144,7 @@
 </head>
     <body>
             <div class="container">
-                <form id="form1" runat="server">
+                <form id="form1" runat="server" class="formulario">
                     <div class="formRegister">
 
                         <h1 class="title">Registrate</h1>
@@ -214,13 +214,14 @@
                          ErrorMessage="8 - 16 catacteres, 1 numero, 1 caracter especial" 
                          ForeColor="Red" 
                          ValidationExpression="^(?=.*\d)(?=.*[\u0021-\u002b\u003c-\u0040])(?=.*[a-z])\S{8,16}$"
-                     ></asp:RegularExpressionValidator>
+                        ></asp:RegularExpressionValidator>
+
+                        <p class="parrafo">Al registrarte, aceptas nuestras Condiciones de uso y Política de privacidad.</p>
+                        <p class="parrafo">¿Ya tienes una cuenta? <a class="link" href="Login.aspx">Iniciar Sesion</a></p>
                     </div>
-
-                    <p>Al registrarte, aceptas nuestras Condiciones de uso y Política de privacidad.</p>
-                    <p>¿Ya tienes una cuenta?<a class="link" href="Login.aspx">Iniciar Sesion</a></p>
-
-                    <asp:Button ID="btnRegistrarAlumno" runat="server" Text="Registrar"  OnClick="btnRegistrarAlumno_Click" class="buton"/>
+                    <div class="boxButton">
+                        <asp:Button ID="btnRegistrarAlumno" runat="server" Text="Registrar"  OnClick="btnRegistrarAlumno_Click" class="buttonSend"/>
+                    </div>
                 </form>
             </div>
 </body>
