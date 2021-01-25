@@ -88,25 +88,54 @@
     </script>
 </head>
 <body>
-    <form id="form1" runat="server" onsubmit="return validar()">
-     
-            <div id="area1">
-               <br/><h1>Login</h1>
-                <br /><br />
-                <asp:TextBox ID="TextBox1" runat="server" ToolTip="Correo electronico"  CssClass="DefaultText" ></asp:TextBox>
-                <asp:RequiredFieldValidator ID="RequiredFieldValidator1" runat="server" ControlToValidate="TextBox1" ErrorMessage="Ingresa un correo" ForeColor="Red"></asp:RequiredFieldValidator>
-                <br /><br />
-                
-                <asp:TextBox ID="TextBox2" runat="server" TextMode="Password"  ToolTip="Contraseña"></asp:TextBox>
-                <asp:RequiredFieldValidator ID="RequiredFieldValidator2" runat="server" ControlToValidate="TextBox2" ErrorMessage="Ingresa una contraseña" ForeColor="Red"></asp:RequiredFieldValidator>
+    <div class="container">
+        <form id="form1" runat="server" onsubmit="return validar()" class="formulario">
+            <div id="area1" class="formRegister">
+                <h1 class="title">Login</h1>
 
-                <br /><br /><asp:Button ID="Button1" runat="server" Font-Names="Bahnschrift SemiBold" Text="Iniciar"  OnClick="Button1_Click" class="buton"/>
-                <br /><p>Al registrarte, aceptas nuestras Condiciones de uso y Política de privacidad.</p>
-                <br /><p>¿No tienes una cuenta? <a class="link" href="Registro.aspx">Registrate</a></p>
-                   
-            
+                <asp:Label ID="Label1" runat="server" Text="Correo" class="tager"></asp:Label>
+                <asp:TextBox 
+                    ID="TextBox1" 
+                    runat="server" 
+                    ToolTip="Correo electronico" 
+                    class="inputText" >
+                </asp:TextBox>
+                <asp:RequiredFieldValidator 
+                    ID="RequiredFieldValidator1" 
+                    runat="server" 
+                    ControlToValidate="TextBox1" 
+                    ErrorMessage="Ingresa un correo" 
+                    ForeColor="Red">
+                </asp:RequiredFieldValidator>
+                
+                <asp:Label ID="Label2" runat="server" Text="Contrasenia" class="tager"></asp:Label>
+                <asp:TextBox 
+                    ID="TextBox2" 
+                    runat="server" 
+                    TextMode="Password"  
+                    ToolTip="Contraseña" 
+                    class="inputText">
+                </asp:TextBox>
+                <asp:RequiredFieldValidator 
+                    ID="RequiredFieldValidator2" 
+                    runat="server" 
+                    ControlToValidate="TextBox2" 
+                    ErrorMessage="Ingresa una contraseña" 
+                    ForeColor="Red">
+                </asp:RequiredFieldValidator>
+
+                <p class="parrafo">¿No tienes una cuenta? <a class="link" href="Registro.aspx">Registrate</a></p>
             </div>
-       
+        <div class="boxButton">
+            <asp:Button 
+                ID="Button1" 
+                runat="server" 
+                Font-Names="Bahnschrift SemiBold" 
+                Text="Iniciar"  
+                OnClick="Button1_Click" 
+                class="buttonSend"/>
+        </div>
     </form>
+    </div>
 </body>
 </html>
