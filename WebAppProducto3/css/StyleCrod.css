@@ -18,7 +18,7 @@ header {
 }
 
     header nav {
-        background: #023859;
+        background: #0019BD;
         z-index: 1000;
         max-width: 1000px;
         width: 95%;
@@ -35,7 +35,7 @@ header {
             }
 
                 header nav ul li:hover {
-                    background: rgb(23, 117, 224);
+                    background: #0019BD;
                 }
 
                 header nav ul li a {
@@ -55,7 +55,7 @@ header {
 
                 header nav ul li .children {
                     display: none;
-                    background: #011826;
+                    background: #0019BD;
                     position: absolute;
                     width: 150%;
                     z-index: 1000;

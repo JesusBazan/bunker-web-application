@@ -146,7 +146,7 @@ header {
 }
 
     header nav {
-        background: rgb(105,28,50);
+        background: #0019BD;
         z-index: 1000;
         max-width: 1000px;
         width: 95%;
@@ -163,7 +163,7 @@ header {
             }
 
                 header nav ul li:hover {
-                    background: rgb(168, 18, 62);
+                    background: #041163;
                 }
 
                 header nav ul li a {
@@ -183,7 +183,7 @@ header {
 
                 header nav ul li .children {
                     display: none;
-                    background: #011826;
+                    background: #0019BD;
                     position: absolute;
                     width: 150%;
                     z-index: 1000;
@@ -224,7 +224,7 @@ header {
         width: 100%;
         position: fixed;
         top: 0;
-        background: rgb(105,28,50);
+        background: #0019BD;
     }
 
         .menu_bar .bt-menu {

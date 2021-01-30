@@ -13,7 +13,7 @@
    
 	<script src="http://code.jquery.com/jquery-latest.js"></script>
     <script src="js/ResponsiveCrod.js"></script>
-    <link href="css/StyleCrod.css" rel="stylesheet" />
+<%--    <link href="css/StyleCrod.css" rel="stylesheet" />--%>
    
     <link href="css/icons.css" rel="stylesheet" />
     <link href="CSS%20Steph/AdministracionStyle.css" rel="stylesheet" />
@@ -23,13 +23,14 @@
 </head>
 <body>
    <form id="form1" runat="server">
+
    <header>
 
 
     <div class="menu_bar">
         <a href="#" class="bt-menu"><span class="fa fa-home"></span>Menú ▾</a>
     </div>
-<div style="width: 100%; background: rgb(105,28,50);" >
+<div style="width: 100%; background: #0019BD;" >
     <nav>
         
         <ul>
@@ -61,6 +62,7 @@
     </nav>
 </div>
 </header>
+
        <div id="divContenido">
            <h1>Actualizar Usuario</h1>
            <br />
