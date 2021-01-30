@@ -28,7 +28,7 @@
     <div class="menu_bar">
         <a href="#" class="bt-menu"><span class="fa fa-home"></span>Menú ▾</a>
     </div>
-<div style="width: 100%; background: rgb(105,28,50);" >
+<div style="width: 100%; background: #0019BD;" >
     <nav>
         
         <ul>
