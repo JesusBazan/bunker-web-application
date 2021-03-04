@@ -89,53 +89,65 @@
 </head>
 <body>
     <div class="container">
-        <form id="form1" runat="server" onsubmit="return validar()" class="formulario">
-            <div id="area1" class="formRegister">
-                <h1 class="title">Login</h1>
+           <div class="container">
+                <form id="form1" runat="server" onsubmit="return validar()" class="formulario">
+                    <div id="area1" class="formRegister">
+                        <h1 class="title">Login</h1>
 
-                <asp:Label ID="Label1" runat="server" Text="Correo" class="tager"></asp:Label>
-                <asp:TextBox 
-                    ID="TextBox1" 
-                    runat="server" 
-                    ToolTip="Correo electronico" 
-                    class="inputText" >
-                </asp:TextBox>
-                <asp:RequiredFieldValidator 
-                    ID="RequiredFieldValidator1" 
-                    runat="server" 
-                    ControlToValidate="TextBox1" 
-                    ErrorMessage="Ingresa un correo" 
-                    ForeColor="Red">
-                </asp:RequiredFieldValidator>
+                        <asp:Label ID="Label1" runat="server" Text="Correo" class="tager"></asp:Label>
+                        <asp:TextBox 
+                            ID="TextBox1" 
+                            runat="server" 
+                            ToolTip="Correo electronico" 
+                            class="inputText" >
+                        </asp:TextBox>
+                        <asp:RequiredFieldValidator 
+                            ID="RequiredFieldValidator1" 
+                            runat="server" 
+                            ControlToValidate="TextBox1" 
+                            ErrorMessage="Ingresa un correo" 
+                            ForeColor="Red">
+                        </asp:RequiredFieldValidator>
                 
-                <asp:Label ID="Label2" runat="server" Text="Contrasenia" class="tager"></asp:Label>
-                <asp:TextBox 
-                    ID="TextBox2" 
-                    runat="server" 
-                    TextMode="Password"  
-                    ToolTip="Contraseña" 
-                    class="inputText">
-                </asp:TextBox>
-                <asp:RequiredFieldValidator 
-                    ID="RequiredFieldValidator2" 
-                    runat="server" 
-                    ControlToValidate="TextBox2" 
-                    ErrorMessage="Ingresa una contraseña" 
-                    ForeColor="Red">
-                </asp:RequiredFieldValidator>
+                        <asp:Label ID="Label2" runat="server" Text="Contrasenia" class="tager"></asp:Label>
+                        <asp:TextBox 
+                            ID="TextBox2" 
+                            runat="server" 
+                            TextMode="Password"  
+                            ToolTip="Contraseña" 
+                            class="inputText">
+                        </asp:TextBox>
+                        <asp:RequiredFieldValidator 
+                            ID="RequiredFieldValidator2" 
+                            runat="server" 
+                            ControlToValidate="TextBox2" 
+                            ErrorMessage="Ingresa una contraseña" 
+                            ForeColor="Red">
+                        </asp:RequiredFieldValidator>
 
-                <p class="parrafo">¿No tienes una cuenta? <a class="link" href="Registro.aspx">Registrate</a></p>
-            </div>
-        <div class="boxButton">
-            <asp:Button 
-                ID="Button1" 
-                runat="server" 
-                Font-Names="Bahnschrift SemiBold" 
-                Text="Iniciar"  
-                OnClick="Button1_Click" 
-                class="buttonSend"/>
-        </div>
-    </form>
-    </div>
+                        <p class="parrafo">¿No tienes una cuenta? <a class="link" href="Registro.aspx">Registrate</a></p>
+                    </div>
+                <div class="boxButton">
+                    <asp:Button 
+                        ID="Button1" 
+                        runat="server" 
+                        Font-Names="Bahnschrift SemiBold" 
+                        Text="Iniciar"  
+                        OnClick="Button1_Click" 
+                        class="buttonSend"/>
+                </div>
+            </form>
+         </div>
+   </div>
 </body>
+   <footer>
+       <script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
+<df-messenger
+  chat-icon="https:&#x2F;&#x2F;storage.googleapis.com&#x2F;cloudprod-apiai&#x2F;c0f7cf96-2322-4dc6-a57d-1a64860035d7_x.png"
+  intent="WELCOME"
+  chat-title="Bunkersito"
+  agent-id="c7c60dbc-8842-47a5-bb4f-ae225338b8df"
+  language-code="es"
+></df-messenger>
+   </footer>
 </html>

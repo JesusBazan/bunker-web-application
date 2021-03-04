@@ -320,3 +320,42 @@ C:\Users\Emmanuel Bazan\Documents\utp\8°\desaroollo web\Producto 3\proyecto web
 C:\Users\Emmanuel Bazan\Documents\utp\8°\desaroollo web\Producto 3\proyecto web\WebAppProducto3\WebAppProducto3\obj\Debug\WebAppProducto3.dll
 C:\Users\Emmanuel Bazan\Documents\utp\8°\desaroollo web\Producto 3\proyecto web\WebAppProducto3\WebAppProducto3\obj\Debug\WebAppProducto3.pdb
 C:\Users\Emmanuel Bazan\Documents\utp\8°\desaroollo web\Producto 3\proyecto web\WebAppProducto3\WebAppProducto3\obj\Debug\WebAppProducto3.csprojAssemblyReference.cache
+C:\Users\conch\Documents\GitHub\bunker-web-application\WebAppProducto3\bin\WebAppProducto3.dll.config
+C:\Users\conch\Documents\GitHub\bunker-web-application\WebAppProducto3\bin\WebAppProducto3.dll
+C:\Users\conch\Documents\GitHub\bunker-web-application\WebAppProducto3\bin\WebAppProducto3.pdb
+C:\Users\conch\Documents\GitHub\bunker-web-application\WebAppProducto3\bin\roslyn\csc.exe
+C:\Users\conch\Documents\GitHub\bunker-web-application\WebAppProducto3\bin\roslyn\csc.exe.config
+C:\Users\conch\Documents\GitHub\bunker-web-application\WebAppProducto3\bin\roslyn\csc.rsp
+C:\Users\conch\Documents\GitHub\bunker-web-application\WebAppProducto3\bin\roslyn\csi.exe
+C:\Users\conch\Documents\GitHub\bunker-web-application\WebAppProducto3\bin\roslyn\csi.rsp
+C:\Users\conch\Documents\GitHub\bunker-web-application\WebAppProducto3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\conch\Documents\GitHub\bunker-web-application\WebAppProducto3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\conch\Documents\GitHub\bunker-web-application\WebAppProducto3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\conch\Documents\GitHub\bunker-web-application\WebAppProducto3\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\conch\Documents\GitHub\bunker-web-application\WebAppProducto3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\conch\Documents\GitHub\bunker-web-application\WebAppProducto3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\conch\Documents\GitHub\bunker-web-application\WebAppProducto3\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\conch\Documents\GitHub\bunker-web-application\WebAppProducto3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\conch\Documents\GitHub\bunker-web-application\WebAppProducto3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\conch\Documents\GitHub\bunker-web-application\WebAppProducto3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\conch\Documents\GitHub\bunker-web-application\WebAppProducto3\bin\roslyn\System.AppContext.dll
+C:\Users\conch\Documents\GitHub\bunker-web-application\WebAppProducto3\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\conch\Documents\GitHub\bunker-web-application\WebAppProducto3\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\conch\Documents\GitHub\bunker-web-application\WebAppProducto3\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\conch\Documents\GitHub\bunker-web-application\WebAppProducto3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\conch\Documents\GitHub\bunker-web-application\WebAppProducto3\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\conch\Documents\GitHub\bunker-web-application\WebAppProducto3\bin\roslyn\vbc.exe
+C:\Users\conch\Documents\GitHub\bunker-web-application\WebAppProducto3\bin\roslyn\vbc.exe.config
+C:\Users\conch\Documents\GitHub\bunker-web-application\WebAppProducto3\bin\roslyn\vbc.rsp
+C:\Users\conch\Documents\GitHub\bunker-web-application\WebAppProducto3\bin\roslyn\VBCSCompiler.exe
+C:\Users\conch\Documents\GitHub\bunker-web-application\WebAppProducto3\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\conch\Documents\GitHub\bunker-web-application\WebAppProducto3\bin\EASendMail.dll
+C:\Users\conch\Documents\GitHub\bunker-web-application\WebAppProducto3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\conch\Documents\GitHub\bunker-web-application\WebAppProducto3\bin\ClassAccesoDatosSQL.pdb
+C:\Users\conch\Documents\GitHub\bunker-web-application\WebAppProducto3\bin\ClassLogicaNegociosPagos.pdb
+C:\Users\conch\Documents\GitHub\bunker-web-application\WebAppProducto3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\conch\Documents\GitHub\bunker-web-application\WebAppProducto3\obj\Debug\WebAppProducto3.csprojAssemblyReference.cache
+C:\Users\conch\Documents\GitHub\bunker-web-application\WebAppProducto3\obj\Debug\WebAppProducto3.csproj.CoreCompileInputs.cache
+C:\Users\conch\Documents\GitHub\bunker-web-application\WebAppProducto3\obj\Debug\WebAppProducto3.csproj.CopyComplete
+C:\Users\conch\Documents\GitHub\bunker-web-application\WebAppProducto3\obj\Debug\WebAppProducto3.dll
+C:\Users\conch\Documents\GitHub\bunker-web-application\WebAppProducto3\obj\Debug\WebAppProducto3.pdb
